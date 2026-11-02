@@ -1,14 +1,25 @@
-# web-development-projects
+<div align="center">
 
-A collection of practical front-end experiments and projects.
+# Web Development Projects
+### Small experiments. Useful interfaces. Better fundamentals.
+
+A collection of frontend projects and practice builds.
+
+</div>
+
+---
 
 ## Focus
-- Semantic HTML and accessible structure
-- CSS layouts and responsive design
+- Semantic, accessible HTML
+- Responsive CSS layouts
 - JavaScript interactions
-- Small projects demonstrating web-development skills
+- Clear project structure and reproducible run instructions
 
-## Technology
+## Stack
 HTML · CSS · JavaScript
 
-Projects will be organized into folders with descriptions and run instructions where useful.
+## Project notes
+Projects are organized into folders. Check each project directory for its own instructions and dependencies.
+
+## Goal
+Keep this repository as a practical, evolving record of frontend learning—not just a collection of screenshots.
